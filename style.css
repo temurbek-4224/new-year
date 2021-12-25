@@ -147,6 +147,9 @@ body {
 .tree div.text span:nth-child(1) {
   font-size: 6em;
 }
+.tree div.text span:nth-child(4) {
+  font-size: 5em;
+}
 
 .tree div.text span::before {
   content: attr(data-text);
